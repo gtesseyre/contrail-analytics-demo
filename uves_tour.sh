@@ -48,7 +48,7 @@ echo  --------------------------------------------------
 read -p "Press enter to continue" pause
 
 echo  -----------------------------------------------------------
-echo "|      DATABASE NODE UVE  - FILTERING ON COMPACTION TASK  |"
+echo "|                     DATABASE NODE UVE                   |"
 echo  -----------------------------------------------------------
 read -p "Press enter to continue" pause
 echo
